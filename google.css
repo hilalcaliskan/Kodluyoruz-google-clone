@@ -1,0 +1,42 @@
+p {
+    font-size: 20px;
+}
+.searchbutton {
+    background-color:beige;
+}
+.search {
+    background-color:rgb(226, 226, 220) ;
+    width: 1000px;
+}
+.special {
+    padding-top: 15px;
+    margin: 1px;
+    margin-left: 175px;
+    width: 400px;
+    height: 70px;
+    background-color: aqua;
+    float: left;
+}
+.help {
+    padding-top: 5px;
+    margin: 1px;
+    float:left;
+    width: 200px;
+    height: 80px;
+    background-color:rgb(35, 233, 216) ;
+}
+.container {
+    
+    width: 1200px;
+}
+.get {
+    padding-top: 5px;
+    margin: 1px;
+    width: 400px;
+    height: 80px;
+    float: left;
+    background-color: rgb(23, 172, 172);
+}
+.text { 
+    margin:auto ;
+}
